@@ -1,0 +1,79 @@
+.Naasongsh1{
+text-align:center;
+font-family:"roboto";
+font-weight: bold;
+margin: 25px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+p{
+    font-size: 20px;
+}
+.cont1{
+    background-color:black;
+    background-size:cover;
+}
+
+.cont2{
+    margin-top:20px;
+    margin-left:20px;
+    margin-right:20px;
+    font-size:15px;
+    color:white;
+    text-decoration:none;
+}
+
+
+.hrtag{
+
+    text-decoration:none;
+    color:black;
+
+}
+
+.ogh2{
+    text-align: center;
+    margin-top:15px;
+}
+
+span{
+    font-weight:bold;
+}
+
+.hrtag2{
+    margin-top: 25px;
+    font-style:italic;
+    margin-bottom:25px;
+}
+
+.ogp1{
+    color:red;
+    text-decoration:none;
+    font-size:20px;
+    font-style:normal;
+    font-weight:400;
+    
+}
+
+.Home{
+    color:black;
+    text-decoration: none;
+    font-weight:bold;
+    padding:10px;
+}
+
+.teaser{
+    margin-top:80px;
+}
+
+.Thankyou{
+    text-align: center;
+    margin-top:80px;
+    background-color:black;
+    color:white;
+    width:70vw;
+}
+
